@@ -1,0 +1,4 @@
+snippet
+=======
+
+Snippet java code
